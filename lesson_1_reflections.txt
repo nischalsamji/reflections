@@ -1,0 +1,37 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I actually did not use diff as I was using windows. I used fc and have to face an error on the first try.
+"Files too different" Then I re-checked the files to sse that if I missed pasting some thing.
+I missed the header part completely and that caused havoc.
+Repasted everything and it worked fine. When I saw spacr instead of space I identified it as the bug.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+When we mark the history, it is easier tot track changes that were done in the past. It also helps in bug fixing and to revert
+any changes that need to be reverted.
+
+What do you think are the pros and cons of manually choosing when to create a commit,
+like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Pros
+Control over the commits.
+Add comments
+Use discretion over this.
+
+Cons.
+Forgetting may prove fatal.
+Power-losses, system interruptions may prove fatal.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log is used to track all the commits
+git diff is to find the differences between to commits using the commit ids
+git -diff <id1> <id2>
+
+How might using version control make you more confident to make changes that could break something?
+
+We have all the changes tracked, this might not be a problem even if we break something.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+My website

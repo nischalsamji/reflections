@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It is added to .git and any files that are in the directory are added as untracked files
