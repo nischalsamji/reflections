@@ -9,3 +9,7 @@ Staging area tracks the changes that are made to a file.
 How can you use the staging area to make sure you have one commit per logical change?
 
 By using git diff on working directory and on repo.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Making multiple versions, distributing code to others, adding other new features.
