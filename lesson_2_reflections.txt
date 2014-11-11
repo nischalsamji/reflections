@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-It is added to .git and any files that are in the directory are added as untracked files
+It is added to .git and any files that are in the directory are added as untracked files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area tracks the changes that are made to a file.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By using git diff on working directory and on repo.
