@@ -18,3 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
 Diagrams give us a picture of which branches will be ignored and which will be parents
 give us the entire history.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All commits on a single branch. We can view all the commits at a single branch.
