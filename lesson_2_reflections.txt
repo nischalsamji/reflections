@@ -13,3 +13,8 @@ By using git diff on working directory and on repo.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Making multiple versions, distributing code to others, adding other new features.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams give us a picture of which branches will be ignored and which will be parents
+give us the entire history.
