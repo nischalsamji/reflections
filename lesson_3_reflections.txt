@@ -5,3 +5,9 @@ When I want to share/ collaborate my code with other developers, I prefer using 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 when there are multiple branches and keeping a track of them is difficult
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork - clone on github
+clone - copy on local
+branches - different versions originating from one main line.
