@@ -19,3 +19,6 @@ Make updates offline.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 sharing files will do.
 Tough to track, merge changes.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+wehn we do not want to mess with the master branch.
